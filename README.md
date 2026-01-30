@@ -230,22 +230,36 @@ Cloudflare Tunnel provides secure, firewall-friendly connections without port fo
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo & Screenshots
 
-For a complete demonstration of VASHU EXPLOIT in action:
+### Live Demo
+To see EXE_IS_NOT_RAT in action:
 
-**🎥 [Watch Demo Video Here]** (Please replace with actual demo video link)
+1. **Clone the repository**:
+   ```bash
+git clone https://github.com/Hritik0100/EXE_IS_NOT_RAT.git
+cd EXE_IS_NOT_RAT
+```
 
-**Video Covers:**
-- Starting the application
-- Creating screen sharing session
-- Generating public URL
-- Viewer connecting from different device
-- Real-time performance
-- Remote control demonstration
-- Security features
+2. **Run the tool**:
+   ```bash
+python Exe_is_not_RAT.pyw
+```
 
-**Watch time**: 3-5 minutes
+3. **View the demo**: The tool will automatically generate a public URL via Cloudflare tunnel that you can share with others to view your screen live.
+
+### Screenshots
+
+**Main Interface**:
+![Main Interface](https://raw.githubusercontent.com/Hritik0100/EXE_IS_NOT_RAT/master/screenshots/main_interface.png)
+
+**Live Streaming**:
+![Live Streaming](https://raw.githubusercontent.com/Hritik0100/EXE_IS_NOT_RAT/master/screenshots/live_stream.png)
+
+**Web Viewer**:
+![Web Viewer](https://raw.githubusercontent.com/Hritik0100/EXE_IS_NOT_RAT/master/screenshots/web_viewer.png)
+
+*Note: Screenshots will be added after first demo recording*
 
 ---
 
@@ -345,8 +359,8 @@ This tool is for educational and legitimate remote access purposes only. Users a
 - [ ] Install Python 3.8+
 - [ ] Install required packages (`pip install pyautogui opencv-python pillow numpy websockets`)
 - [ ] Install cloudflared
-- [ ] Download vashu_Exploit.pyw
-- [ ] Run: `python vashu_Exploit.pyw`
+- [ ] Download Exe_is_not_RAT.pyw
+- [ ] Run: `python Exe_is_not_RAT.pyw`
 - [ ] Copy the public URL
 - [ ] Share URL with viewers
 - [ ] Start collaborating!
@@ -361,3 +375,4 @@ For issues, suggestions, or feedback, please reach out through appropriate chann
 
 **Made with ❤️ for secure, easy remote collaboration**
 
+*EXE_IS_NOT_RAT - Professional Screen Sharing Solution*
