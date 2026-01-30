@@ -41,6 +41,28 @@ Built with Python and powered by Cloudflare Tunnel for enterprise-grade security
 
 ---
 
+---
+
+## 📸 Screenshots & Demo
+
+![Command Interface](assets/commands.png)
+
+### 🎬 Demo Video
+Check out our demo video to see WinRat in action:
+
+
+
+[![Watch the demo](https://img.youtube.com/vi/8mMRK409Yko/maxresdefault.jpg)](https://youtu.be/8mMRK409Yko)
+
+
+
+
+---
+
+
+
+
+
 ## 📋 System Requirements
 
 ### Host Computer (Your PC)
@@ -393,31 +415,6 @@ Bot: 🔒 Computer locked successfully
 | **Control** | `/lock` | Lock PC |
 | **Control** | `/shutdown` | Shutdown |
 | **Control** | `/speech` | Text-to-speech |
-
----
-
-## 📸 Screenshots & Demo
-
-![Command Interface](assets/commands.png)
-
-### 🎬 Demo Video
-Check out our demo video to see WinRat in action:
-
-
-
-[![Watch the demo](https://img.youtube.com/vi/8mMRK409Yko/maxresdefault.jpg)](https://youtu.be/8mMRK409Yko)
-
-
-
-
-
-
-
-
----
-
-
-
 
 ## Telegram Bot Commands
 
