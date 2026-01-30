@@ -403,7 +403,8 @@ Bot: 🔒 Computer locked successfully
 ### 🎬 Demo Video
 Check out our demo video to see WinRat in action:
 
-https://github.com/Hritik0100/WinRAT/assets/demo/demo.mp4
+
+https://raw.githubusercontent.com/Hritik0100/WinRAT/master/assets/demo/demo.mp4
 
 ---
 
