@@ -1,5 +1,7 @@
 # 🖥️ WinRat - Advanced Remote Desktop Tool
 
+<a href="https://ibb.co/R4ghJhkq"><img src="https://i.ibb.co/mFRvPvV3/img.png" alt="WinRat Interface" border="0"></a>
+
 **Professional Remote Access Solution with Telegram Integration & Cloudflare Tunnel**
 
 > ⚡ **Standalone Executable** - No Python installation required! No libraries needed! Just set your Telegram bot token and run the .exe file.
@@ -395,6 +397,9 @@ Bot: 🔒 Computer locked successfully
 Check out our demo video to see WinRat in action:
 
 [Watch Demo Video](assets/demo/demo.mp4)
+
+<div class="sp-embed-player" data-id="cOVvr7n34hH" data-aspect-ratio="1.544444" data-padding-top="64.748201%" style="position:relative;width:100%;padding-top:64.748201%;height:0;"><script src="https://go.screenpal.com/consumption/player_appearance/cOVvr7n34hH/1.544444"></script><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"  scrolling="no" src="https://go.screenpal.com/player/cOVvr7n34hH?ff=1&ahc=1&dcc=1&bg=transparent&share=1&download=1&embed=1&cl=1" allowfullscreen="true"></iframe></div>
+
 
 ---
 
