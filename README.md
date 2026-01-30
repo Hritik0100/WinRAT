@@ -405,7 +405,7 @@ Check out our demo video to see WinRat in action:
 
 
 
-
+[![Watch the demo](https://img.youtube.com/vi/8mMRK409Yko/maxresdefault.jpg)](https://youtu.be/8mMRK409Yko)
 
 
 
