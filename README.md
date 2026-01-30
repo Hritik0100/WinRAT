@@ -404,7 +404,15 @@ Bot: 🔒 Computer locked successfully
 Check out our demo video to see WinRat in action:
 
 
-https://raw.githubusercontent.com/Hritik0100/WinRAT/master/assets/demo/demo.mp4
+
+
+
+
+
+
+
+
+
 
 ---
 
